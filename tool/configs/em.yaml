@@ -1,0 +1,13 @@
+configs:
+    blackBox: true
+    # bbSwaggerUrl: "https://petstore3.swagger.io/api/v3/openapi.json"
+    outputFormat: DEFAULT
+    problemType: REST
+    maxTime: 10m
+    ratePerMinute: 70
+    exportCoveredTarget: true
+    # endpointTagFilter: "Estudantes"
+    header0: "x-api-key: 8jgd4t567yhgbv!&uj*9l;m83$gt7yh1"
+    bbSwaggerUrl: http://localhost:8000/docs?api-docs.json
+    endpointTagFilter: "Estudantes, Profissionais da Educa\u00e7\u00e3o"
+    # bbSwaggerUrl: https://api-cmde.api.pedemeia-dev.nees.ufal.br/docs?api-docs.json
