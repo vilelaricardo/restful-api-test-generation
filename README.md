@@ -1,4 +1,4 @@
-# Projeto de TCC
+# Projeto
 
 ---
 
